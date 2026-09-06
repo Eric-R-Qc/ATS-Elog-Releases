@@ -1,0 +1,18 @@
+[
+  {
+    "tag_name": "v1.0.5-beta.7",
+    "name": "ATS Elog v1.0.5 Beta 7",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "ATS_Elog_1.0.5_Beta7.zip",
+        "browser_download_url": "https://github.com/Eric-R-Qc/ATS-Elog-Releases/raw/main/downloads/ATS_Elog_1.0.5_Beta7.zip"
+      },
+      {
+        "name": "ATS_Elog_Mobile_1.0.5_beta7.apk",
+        "browser_download_url": "https://github.com/Eric-R-Qc/ATS-Elog-Releases/raw/main/downloads/ATS_Elog_Mobile_1.0.5_beta7.apk"
+      }
+    ]
+  }
+]
