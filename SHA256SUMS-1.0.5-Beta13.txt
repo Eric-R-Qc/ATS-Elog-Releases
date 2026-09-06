@@ -1,0 +1,8 @@
+ATS Elog 1.0.5 Beta 13 — Official SHA-256 checksums
+Official source: https://github.com/Eric-R-Qc/ATS-Elog-Releases
+
+10296BC9AB3DDBD9FD6160A94A849DC7FCC8C4657417DE4F459EF4F2A0C5B46D  ATS_Elog_1.0.5_Beta13.zip
+FA6DB897044E7FD175AC79B910226A5BB7A9E228060D69A05698B50070FD774B  ATS_Elog_Mobile_1.0.5_beta13.apk
+
+Only download from the official source above. Mirrors and re-uploads are not
+supported and may be outdated or modified.
