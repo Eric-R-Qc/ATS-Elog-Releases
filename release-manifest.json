@@ -1,17 +1,17 @@
 [
   {
-    "tag_name": "v1.0.5-beta.11",
-    "name": "ATS Elog v1.0.5 Beta 11",
+    "tag_name": "v1.0.5-beta.12",
+    "name": "ATS Elog v1.0.5 Beta 12",
     "draft": false,
     "prerelease": true,
     "assets": [
       {
-        "name": "ATS_Elog_1.0.5_Beta11.zip",
-        "browser_download_url": "https://github.com/Eric-R-Qc/ATS-Elog-Releases/raw/main/downloads/ATS_Elog_1.0.5_Beta11.zip"
+        "name": "ATS_Elog_1.0.5_Beta12.zip",
+        "browser_download_url": "https://github.com/Eric-R-Qc/ATS-Elog-Releases/raw/main/downloads/ATS_Elog_1.0.5_Beta12.zip"
       },
       {
-        "name": "ATS_Elog_Mobile_1.0.5_beta11.apk",
-        "browser_download_url": "https://github.com/Eric-R-Qc/ATS-Elog-Releases/raw/main/downloads/ATS_Elog_Mobile_1.0.5_beta11.apk"
+        "name": "ATS_Elog_Mobile_1.0.5_beta12.apk",
+        "browser_download_url": "https://github.com/Eric-R-Qc/ATS-Elog-Releases/raw/main/downloads/ATS_Elog_Mobile_1.0.5_beta12.apk"
       }
     ]
   }
