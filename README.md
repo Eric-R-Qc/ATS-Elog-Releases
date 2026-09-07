@@ -11,9 +11,9 @@ Le code source d’ATS Elog est privé et n’est pas publié ici.
 
 [Télécharger le ZIP officiel pour PC](https://github.com/Eric-R-Qc/ATS-Elog-Releases/raw/main/downloads/ATS_Elog_1.0.5_Beta14.zip)
 
-Après l’extraction, lancez `INSTALLER_ATS_Elog.bat`, choisissez votre langue,
-puis indiquez le dossier `bin/win_x64` de votre installation d’American Truck
-Simulator. Les instructions complètes sont incluses dans le ZIP.
+Après l’extraction, copiez le contenu du dossier `win_x64` fourni dans le
+dossier `bin/win_x64` de votre installation d’American Truck Simulator.
+Les instructions détaillées, en quatre langues, sont incluses dans le ZIP.
 
 Contrôle d’intégrité : [SHA256SUMS-1.0.5-Beta14.txt](SHA256SUMS-1.0.5-Beta14.txt)
 
